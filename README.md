@@ -1,30 +1,90 @@
-# Hi there, I'm Lê Tuấn Sang 👋
+<!-- Place this file in a public repo named exactly like your username: tuansang03/tuansang03 -->
 
-**Full Stack Developer** · Hanoi, Vietnam 🇻🇳
+<div align="center">
 
-- 🎓 Software Engineering graduate at **FPT University Hanoi**
-- 💻 I build web & mobile apps with **React / React Native / TypeScript** and **NestJS** — especially products with payments, real-time features, and AI
-- 📫 Reach me at **tuansangsb2k3@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3178c6&height=200&section=header&text=Le%20Tuan%20Sang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20TypeScript%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
 
-### Languages and Tools
+<a href="https://github.com/tuansang03">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sang+%F0%9F%91%8B;Full+Stack+TypeScript+Developer;React+%7C+Next.js+%7C+NestJS;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+</a>
 
-<p>
-  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="Expo" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
-  <img alt="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="NestJS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-  <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Prisma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img alt="Firebase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+<br/>
 
-### 🚀 Featured Projects
+![Profile Views](https://komarev.com/ghpvc/?username=tuansang03&style=for-the-badge&color=3178c6&label=PROFILE+VIEWS&labelColor=0d1117)
+[![Followers](https://img.shields.io/github/followers/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=3178c6&labelColor=0d1117)](https://github.com/tuansang03?tab=followers)
+[![Stars](https://img.shields.io/github/stars/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=3178c6&labelColor=0d1117)](https://github.com/tuansang03?tab=stars)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuansangsb2k3@gmail.com)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tuansangsb2k3)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering graduate at **FPT University Hanoi** (2026)
+- 🔭 Focused on the **TypeScript ecosystem**: building UIs with **React / Next.js** and APIs with **NestJS**
+- 🛠️ Daily work: turning UI designs into responsive interfaces and integrating REST APIs
+- 🤖 Also building with AI: semantic search & job matching with **Gemini embeddings + pgvector**
+- 📫 Reach me via the links above
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/tuansang03">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tuansang03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/tuansang03">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuansang03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tuansang03&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 **[WorkLink — AI Job Matching Platform](https://worklink.id.vn)**
 AI job matching with Gemini embeddings + pgvector — I built auth end-to-end, real-time chat, and the AI job-suggestion feature (2nd-highest contributor).
@@ -59,12 +119,22 @@ Java web shop for laptops — I built the cart-to-payment flow with VNPay and th
 `Java · Servlet · JSP · JSTL · JDBC · SQL Server · VNPay · Jakarta Mail API`
 [Repo](https://github.com/tuansang03/LaptopShop-SE1870-NJ-G1)
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuansang03&show_icons=true&hide_border=true" alt="Sang's GitHub stats" />
-</p>
+## 🏆 Contribution Graph
 
-### 📫 Connect with me
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuansang03&bg_color=0d1117&color=58a6ff&line=3178c6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
-Email: [tuansangsb2k3@gmail.com](mailto:tuansangsb2k3@gmail.com) · GitLab: [tuansangsb2k3](https://gitlab.com/tuansangsb2k3) (several team projects above live there) · Hanoi, Vietnam
+---
+
+## 🤝 Let's Connect
+
+I'm open to fresher/junior opportunities and collaboration on TypeScript projects. Feel free to reach out!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3178c6&height=120&section=footer" alt="footer" width="100%" />
+
+</div>
