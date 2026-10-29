@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuansang03&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS&labelColor=0d1117)
 [![Followers](https://img.shields.io/github/followers/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=16A34A&labelColor=0d1117)](https://github.com/tuansang03?tab=followers)
-[![Stars](https://img.shields.io/github/stars/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=16A34A&labelColor=0d1117)](https://github.com/tuansang03?tab=stars)
+[![Stars](https://img.shields.io/github/stars/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=16A34A&labelColor=0d1117)](https://github.com/tuansang03?tab=stars)<br/>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuansangsb2k3@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tuansangsb2k3)
 
