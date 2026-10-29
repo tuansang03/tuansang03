@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3178c6&height=200&section=header&text=Le%20Tuan%20Sang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20TypeScript%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3178c6&height=200&section=header&text=Le%20Tuan%20Sang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://github.com/tuansang03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sang+%F0%9F%91%8B;Full+Stack+TypeScript+Developer;React+%7C+Next.js+%7C+NestJS;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sang+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Next.js+%7C+NestJS;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,11 +49,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,10 +72,10 @@
 <div align="center">
 
 <a href="https://github.com/tuansang03">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tuansang03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://mark.sylphx.com/api?username=tuansang03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/tuansang03">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuansang03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://mark.sylphx.com/api/top-langs?username=tuansang03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/>
@@ -88,44 +90,36 @@
 
 **[WorkLink — AI Job Matching Platform](https://worklink.id.vn)**
 AI job matching with Gemini embeddings + pgvector — I built auth end-to-end, real-time chat, and the AI job-suggestion feature (2nd-highest contributor).
-`React 19 · TypeScript · Vite · Tailwind CSS · shadcn/ui · NestJS · PostgreSQL · pgvector · Prisma · Redis · Socket.io · Cloudinary · Google OAuth · SePay · Gemini API`
+React 19 · TypeScript · Vite · Tailwind CSS · shadcn/ui · NestJS · PostgreSQL · pgvector · Prisma · Redis · Socket.io · Cloudinary · Google OAuth · SePay · Gemini API
 [Live site](https://worklink.id.vn) · [Front-end](https://github.com/he170794kieudinhdoan-lang/sepfe_G31) · [Back-end](https://github.com/minhtt22-26/sepbe_G31)
 
 <br/>
 
 **[FUS System — Q&A & Mentoring Platform](https://wdp301-fe-v2.vercel.app)**
 Q&A and study-material sharing for students — I built the Q&A front-end, material voting, and the notification system.
-`Next.js · TypeScript · NestJS · MongoDB · Supabase · Cloudflare · n8n · DeepSeek AI API · Gmail API`
+Next.js · TypeScript · NestJS · MongoDB · Supabase · Cloudflare · n8n · DeepSeek AI API · Gmail API
 [Live site](https://wdp301-fe-v2.vercel.app) · [Front-end](https://gitlab.com/wdp301-group/wdp301_front-end) · [Back-end](https://gitlab.com/wdp301-group/wdp301)
 
 <br/>
 
 **[Hola Rental — Room Rental Platform](https://hola-rental.vercel.app)**
 Room rental with landlord verification and an admin dashboard — I built the landlord/admin interfaces and the room-search API.
-`Next.js · TypeScript · Express.js · MongoDB · Mongoose · Cloudinary · ZaloPay · FPT eKYC · Google Maps API`
+Next.js · TypeScript · Express.js · MongoDB · Mongoose · Cloudinary · ZaloPay · FPT eKYC · Google Maps API
 [Live site](https://hola-rental.vercel.app) · [Repo](https://gitlab.com/sdn302_g2/hola-rental)
 
 <br/>
 
 **SmartSend — Messaging & Reminder App**
 Mobile app for scheduled messages and reminders — I created the project and built the messaging UI with Firebase push notifications.
-`React Native · Expo · TypeScript · React Navigation · Firebase (Realtime Database, Auth, Storage, Cloud Messaging)`
+React Native · Expo · TypeScript · React Navigation · Firebase (Realtime Database, Auth, Storage, Cloud Messaging)
 [Repo](https://gitlab.com/tuansangsb2k3/smartsend)
 
 <br/>
 
 **[Laptop Shop — E-commerce Website](https://github.com/tuansang03/LaptopShop-SE1870-NJ-G1)**
 Java web shop for laptops — I built the cart-to-payment flow with VNPay and the manager order workflow.
-`Java · Servlet · JSP · JSTL · JDBC · SQL Server · VNPay · Jakarta Mail API`
+Java · Servlet · JSP · JSTL · JDBC · SQL Server · VNPay · Jakarta Mail API
 [Repo](https://github.com/tuansang03/LaptopShop-SE1870-NJ-G1)
-
----
-
-## 🏆 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuansang03&bg_color=0d1117&color=58a6ff&line=3178c6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
 
 ---
 
