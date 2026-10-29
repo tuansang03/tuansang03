@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuansang03&style=for-the-badge&color=3178c6&label=PROFILE+VIEWS&labelColor=0d1117)
-[![Followers](https://img.shields.io/github/followers/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=3178c6&labelColor=0d1117)](https://github.com/tuansang03?tab=followers)
-[![Stars](https://img.shields.io/github/stars/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=3178c6&labelColor=0d1117)](https://github.com/tuansang03?tab=stars)
+![Profile Views](https://komarev.com/ghpvc/?username=tuansang03&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS&labelColor=0d1117)
+[![Followers](https://img.shields.io/github/followers/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=16A34A&labelColor=0d1117)](https://github.com/tuansang03?tab=followers)
+[![Stars](https://img.shields.io/github/stars/tuansang03?style=for-the-badge&logo=github&logoColor=white&color=16A34A&labelColor=0d1117)](https://github.com/tuansang03?tab=stars)
 
 <br/>
 
@@ -37,31 +37,31 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css&logoColor=663399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1)
+![pgvector](https://img.shields.io/badge/pgvector-0D1117?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat&logo=redis&logoColor=FF4438)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat&logo=firebase&logoColor=DD2C00)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0D1117?style=flat&logo=googlegemini&logoColor=8E75B2)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F03C2E)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat&logo=gitlab&logoColor=FC6D26)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat&logo=postman&logoColor=FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat&logo=swagger&logoColor=85EA2D)
 
 </div>
 
